@@ -2,8 +2,8 @@
 
 * [axiom.ix.tc](https://axiom.ix.tc)
 * [Community](https://axiom.ix.tc/discord)
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 
 ## Get Started
 
-* [Invite Axiom](../get-started/invite-axiom.md)
+* [Invite Axiom](/get-started/invite-axiom.md)
